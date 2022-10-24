@@ -34,7 +34,11 @@
 6. true - boolean of a single value will always return true and true is same data type and equal to true
 
 .15. == compares implied values and === compares defined value 
+
 .16. In JS file
+
 .17. the array retruned by modifyArray will contain values that are equal to double the value of the array passed into the function. When callback is called in line 4, the fuinction - doSomething, that was passed in is called and returns the number passed in doubled. As, doSomething is called on every value in the input array, an array with the values doubled is returned.
+
 .18. in JS file
+
 .19. 1 4 3 2
